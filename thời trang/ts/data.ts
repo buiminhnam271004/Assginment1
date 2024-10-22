@@ -16,6 +16,7 @@ type Toutfitnu = {
     mota: string;
     anh: string;
 }
+
 const nam_arr:Toutfitnam[]= [
     { id: 1, ao: " Phông cam ", quan: "Jeans", phai: "Nam", mota: "Quần jeans mix giày thể thao", "anh": "images/nam/Quần jeans mix áo phông cam.jpg" },
     { id: 2, ao: " Phông ", quan: "Jeans đen", phai: "Nam", mota: "Phối đồ với áo phông nam", "anh": "images/nam/áo phong với jean đen.jpg" },
@@ -37,8 +38,9 @@ const nu_arr:Toutfitnu[]= [
     { id: 7, ao: " Len mỏng phối áo gile ", quan: "Jeans ", phai: "Nữ", mota: "Outfit nữ mùa đông", "anh": "images/nữ/outfit-nu-mua-dong.jpg" },
     { id: 8, ao: " Sơ mi layer khoác ngoài", quan: "Jeans ", phai: "Nữ", mota: "Style áo sơ mi layer khoác ngoài", "anh": "images/nữ/nuocngoai.jpg" },
  ]
- export { Toutfitnam,Toutfitnu, TGioiTinh}
- export { nam_arr, nu_arr }
+ 
+ export { Toutfitnam,Toutfitnu, TGioiTinh,}
+ export { nam_arr, nu_arr, }
  
  
  

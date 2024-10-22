@@ -6,7 +6,7 @@
     {"id":"4", "ten":"Nowsaigon","anh": "images/Thương hiệu/nowsg.png", "thu_tu":4, "an_hien":1}, 
     {"id":"5", "ten":"Missout","anh": "images/Thương hiệu/missout.png", "thu_tu":5, "an_hien":1}, 
     {"id":"6", "ten":"Sly Clothing","anh": "images/Thương hiệu/sly.jpg", "thu_tu":6, "an_hien":1},
-    {"id":"7", "ten":"Bo Bụi", "anh": "images/Thương hiệu/BoBui.jpg","thu_tu":8, "an_hien":1},
-    {"id":"8", "ten":"UNCOVER","anh": "images/Thương hiệu/uncover.png","thu_tu":7, "an_hien":1}
+    {"id":"7", "ten":"Bo Bụi", "anh": "images/Thương hiệu/BoBui.jpg","thu_tu":7, "an_hien":1},
+    {"id":"8", "ten":"UNCOVER","anh": "images/Thương hiệu/uncover.png","thu_tu":8, "an_hien":1}
 ]
 }

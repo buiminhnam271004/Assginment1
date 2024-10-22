@@ -1,5 +1,5 @@
 import { Toutfitnam,Toutfitnu, TGioiTinh} from './data.js'
-import { nam_arr, nu_arr } from './data.js'
+import { nam_arr, nu_arr} from './data.js'
 
 const hien1outfitnam = (outfit:Toutfitnam) =>{
     return `<div>
